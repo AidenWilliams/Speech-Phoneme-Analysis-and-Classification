@@ -1,4 +1,4 @@
-﻿Speaker,Gender,Word,Phenome,Time,Formant1,Formant2,Formant3
+﻿Speaker,Gender,Word,Phoneme,Time,Formant1,Formant2,Formant3
 alw001,F,heed,IY,0.931746,380.739503,2523.079518,3234.430697
 alw001,F,hid,IH,2.014639,479.727255,2715.679948,3338.6606
 alw001,F,head,EH,3.00364,735.34023,2300.468502,3159.912711
