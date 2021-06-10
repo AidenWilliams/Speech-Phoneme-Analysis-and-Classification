@@ -1,4 +1,4 @@
-# Speech_Phoneme_Analysis_and_Classification
+# Speech-Phoneme-Analysis-and-Classification
 
 This notebook is the coding part of the assignment. I go over what I did and how in small notes. A detailed methodology
 and evaluation will be found in the report pdf.
